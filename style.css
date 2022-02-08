@@ -1,0 +1,21 @@
+body {
+      margin: 0;
+      padding: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+canvas {
+  position: absolute;
+  align-content: center;
+}
+
+
+.myButton {
+  min-width: 160px;
+  max-width: 160px;
+  cursor: default;
+}
